@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justin-yamamoto
 - 👀 I’m interested in a bunch of things
-- 🌱 I’m currently learning the software engineering part of development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kailuajustin808@gmail.com
 
