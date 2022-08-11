@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justin-yamamoto
 - 👀 I’m interested in a bunch of things
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and dabbling in Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me justinyamamoto2@gmail.com
 
